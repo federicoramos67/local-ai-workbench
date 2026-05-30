@@ -11,12 +11,13 @@ env/
 build/
 dist/
 *.spec
+data/
+*.db
+*.zip
+python*.zip
 *.msi
 *.nupkg
 python-*.exe
-python-*.zip
-data/*.db
-data/*.db-*
 *.log
 .pytest_cache/
 .mypy_cache/
